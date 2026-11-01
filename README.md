@@ -6,7 +6,12 @@ Mis skills para Claude Code. Herramientas de comunicación estratégica y diseñ
 
 | Skill | Qué hace | Fuente |
 |---|---|---|
+| `voz-guillermina` | Mi tono de voz. Cercano, claro, rosarino. También revisa textos y marca errores. | Propia |
+| `estrategia-comunicacion` | Mi método en 6 pasos para armar estrategias de comunicación para clientes. | Propia |
+| `copy-clientes` | Copys por canal (Instagram, LinkedIn, newsletter, WhatsApp) pensados para generar comunidad. | Propia |
 | `frontend-design` | Diseño con criterio propio, sin plantillas. Paleta, tipografía y estructura pensadas para cada proyecto. | [anthropics/skills](https://github.com/anthropics/skills) |
+
+Las skills propias se usan juntas: la estrategia define el mensaje, el copy lo escribe y la voz le da el tono.
 
 ## Cómo usarlas
 
