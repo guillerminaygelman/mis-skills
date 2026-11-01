@@ -1,6 +1,6 @@
 ---
 name: copy-clientes
-description: Escribir copys para los clientes de Guillermina y para su propia marca. Usala para posteos de Instagram, carruseles, reels, LinkedIn, newsletters, mensajes de WhatsApp, bios, textos de web y convocatorias. El foco es generar conversación, comunidad y engagement con gente de Rosario y la región.
+description: Escribir copys para los clientes de Guillermina y para su propia marca. Usala para posteos de Instagram, carruseles, reels, LinkedIn, newsletters, mensajes de WhatsApp, bios, textos de web y convocatorias. El foco es generar conversación y comunidad con gente de Rosario y la región.
 ---
 
 # Copy para clientes
@@ -52,7 +52,7 @@ Tené claro esto. Si falta algo, preguntá:
 **Bio**
 - Qué hacés, para quién y un diferencial. Más el link o la acción.
 
-## Engagement y comunidad
+## Participación y comunidad
 
 - Preguntá cosas que la gente quiera contestar. Fáciles, personales y sin respuesta correcta.
 - Invitá a participar: "contame el tuyo", "etiquetá a alguien que…", "votá en historias".

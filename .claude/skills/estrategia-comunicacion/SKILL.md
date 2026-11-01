@@ -1,6 +1,6 @@
 ---
 name: estrategia-comunicacion
-description: Método de Guillermina para armar estrategias de comunicación para clientes. Usala cuando haya que diagnosticar una marca, definir públicos y mensajes, elegir canales, armar un plan de contenidos o preparar una propuesta para un cliente. Sirve para marcas, emprendimientos, estudios de diseño e instituciones, sobre todo de Rosario y la región.
+description: Método de Guillermina para armar estrategias de comunicación para clientes. Usala cuando haya que diagnosticar una marca, definir públicos y mensajes, elegir canales, armar un plan de contenidos o preparar una propuesta para un cliente. Sirve sobre todo para proyectos de cultura, diseño de indumentaria, moda, editorial y cultura urbana de Rosario y la región.
 ---
 
 # Estrategia de comunicación
