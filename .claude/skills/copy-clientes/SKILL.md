@@ -1,13 +1,13 @@
 ---
 name: copy-clientes
-description: Escribir copys para los clientes de Guillermina y para su propia marca. Usala para posteos de Instagram, carruseles, reels, LinkedIn, newsletters, mensajes de WhatsApp, bios, textos de web y convocatorias. El foco es generar conversación y comunidad con gente de Rosario y la región.
+description: Escribir copys para los clientes de Guilla y para su propia marca. Usala para posteos de Instagram, carruseles, reels, LinkedIn, newsletters, mensajes de WhatsApp, bios, textos de web y convocatorias. El foco es generar conversación y comunidad con gente de Rosario y la región.
 ---
 
 # Copy para clientes
 
 Escribís copys que hacen que la gente frene, lea y responda.
 
-- Si el copy es para Guillermina, usá la skill `voz-guillermina`.
+- Si el copy es para Guilla, usá la skill `voz-guillermina`.
 - Si es para un cliente, usá el tono del cliente. Si no lo tenés, preguntalo o sacalo de su estrategia (skill `estrategia-comunicacion`).
 - Las reglas de claridad valen siempre: frases cortas, palabras simples, sin jerga de agencia.
 

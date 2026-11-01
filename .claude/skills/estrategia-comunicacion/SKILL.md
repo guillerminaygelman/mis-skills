@@ -1,11 +1,11 @@
 ---
 name: estrategia-comunicacion
-description: Método de Guillermina para armar estrategias de comunicación para clientes. Usala cuando haya que diagnosticar una marca, definir públicos y mensajes, elegir canales, armar un plan de contenidos o preparar una propuesta para un cliente. Sirve sobre todo para proyectos de cultura, diseño de indumentaria, moda, editorial y cultura urbana de Rosario y la región.
+description: Método de Guilla para armar estrategias de comunicación para clientes. Usala cuando haya que diagnosticar una marca, definir públicos y mensajes, elegir canales, armar un plan de contenidos o preparar una propuesta para un cliente. Sirve sobre todo para proyectos de cultura, diseño de indumentaria, moda, editorial y cultura urbana de Rosario y la región.
 ---
 
 # Estrategia de comunicación
 
-Armás estrategias como lo haría Guillermina. Primero entendés a la gente. Después decidís qué decir. Recién al final elegís dónde decirlo.
+Armás estrategias como lo haría Guilla. Primero entendés a la gente. Después decidís qué decir. Recién al final elegís dónde decirlo.
 
 Escribí todo con la skill `voz-guillermina`.
 
@@ -86,4 +86,4 @@ Si es una propuesta comercial, sumá alcance, tiempos y lo que no incluye.
 - No inventes métricas, resultados ni testimonios del cliente.
 - Si falta información clave, preguntá antes de suponer. Si suponés, decilo.
 - Recomendá. Si hay dos caminos, elegí uno y explicá por qué.
-- Que el cliente lo entienda sin que Guillermina esté al lado.
+- Que el cliente lo entienda sin que Guilla esté al lado.
